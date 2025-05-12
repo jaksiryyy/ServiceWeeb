@@ -1,2 +1,2 @@
 # ServiceWeeb
-Aplicacion orientada a la materia aplicaciones orientada a servicios
+Repositorio creado para practicas de la materia aplicaciones web orientada a servicios
